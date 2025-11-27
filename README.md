@@ -13,7 +13,6 @@ Project ini membahas:
 
 ## 📁 Struktur Folder
 
-\`\`\`
 project/
 ├── app.py                  # Main Streamlit application
 ├── config.py               # Configuration & constants
@@ -28,7 +27,6 @@ project/
 │
 └── visualization/
     └── plots.py            # Modul untuk visualisasi & plotting
-\`\`\`
 
 ## 🚀 Cara Menjalankan
 
