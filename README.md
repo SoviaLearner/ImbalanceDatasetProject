@@ -13,20 +13,22 @@ Project ini membahas:
 
 ## 📁 Struktur Folder
 
+<pre>
 project/
-├── app.py                  # Main Streamlit application
-├── config.py               # Configuration & constants
-├── requirements.txt        # Python dependencies
-├── README.md               # Dokumentasi
+├── app.py                       # Aplikasi utama Streamlit (Front-End)
+├── config.py                    # Konfigurasi dan Konstanta global
+├── requirements.txt             # Daftar dependensi Python
+├── README.md                    # Dokumentasi Proyek
 │
 ├── data/
-│   └── data_loader.py      # Modul untuk loading & preprocessing data
+│   └── data_loader.py           # Modul untuk loading & preprocessing data
 │
 ├── models/
-│   └── model_trainer.py    # Modul untuk training & evaluasi model
+│   └── model_trainer.py         # Modul untuk training & evaluasi model
 │
 └── visualization/
-    └── plots.py            # Modul untuk visualisasi & plotting
+    └── plots.py                 # Modul untuk visualisasi & plotting
+</pre>
 
 ## 🚀 Cara Menjalankan
 
