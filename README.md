@@ -15,19 +15,19 @@ Project ini membahas:
 
 \`\`\`
 project/
-├── app.py                          # Main Streamlit application
-├── config.py                       # Configuration & constants
-├── requirements.txt                # Python dependencies
-├── README.md                       # Dokumentasi
+├── app.py                  # Main Streamlit application
+├── config.py               # Configuration & constants
+├── requirements.txt        # Python dependencies
+├── README.md               # Dokumentasi
 │
 ├── data/
-│   └── data_loader.py             # Module untuk loading & preprocessing data
+│   └── data_loader.py      # Modul untuk loading & preprocessing data
 │
 ├── models/
-│   └── model_trainer.py           # Module untuk training & evaluasi model
+│   └── model_trainer.py    # Modul untuk training & evaluasi model
 │
 └── visualization/
-    └── plots.py                   # Module untuk visualisasi & plotting
+    └── plots.py            # Modul untuk visualisasi & plotting
 \`\`\`
 
 ## 🚀 Cara Menjalankan
