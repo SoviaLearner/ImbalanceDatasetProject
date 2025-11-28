@@ -4,9 +4,15 @@ scikit-learn==1.3.1
 imbalanced-learn==0.11.0
 matplotlib==3.8.1
 seaborn==0.13.2
+
 streamlit==1.28.1
+
 openpyxl==3.1.2
-markdown-it-py==4.0.0
+
+# Dependencies Streamlit markdown
+markdown-it-py==3.0.0
 mdurl==0.1.2
-pygments==2.19.2
-rich==13.5.2
+pygments==2.16.1
+
+# Versi rich yang aman dan kompatibel
+rich==13.7.1
